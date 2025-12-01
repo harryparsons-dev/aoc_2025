@@ -69,8 +69,3 @@ func part2(input []string) int {
 	}
 	return zeroCount
 }
-
-// NOT 3156 too low
-// 8733
-// not 7941
-// not 7101
